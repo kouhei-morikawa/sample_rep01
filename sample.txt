@@ -1,4 +1,4 @@
 sample01
 sample02
 sample03 by remote
-sample04 by remote
+sample04 by local
